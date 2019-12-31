@@ -1,0 +1,2 @@
+# LeetCodeDOC
+my solution
